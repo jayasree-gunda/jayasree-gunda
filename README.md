@@ -16,9 +16,8 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm JayaSree Gunda</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayasree-gunda&label=Profile%20views&color=0e75b6&style=flat" alt="jayasree-gunda" /> </p>
 
-- 🔭 I’m currently **pursuing Information Technology**
+- 🔭 I’m currently **working in CGI, Bangalore**
 - 🌱 I’m currently learning **Python**
-- 🤔 I’m looking for Job Opportunities
 - 📫 How to reach me:
    
    i. Linked in :- https://in.linkedin.com/in/jayasree-gunda-382a65196
